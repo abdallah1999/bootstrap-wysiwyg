@@ -4,9 +4,9 @@ bootstrap-wysiwyg
 Important information for Github requests/issues
 ------------------------------------------------
 
-Please do not submit issues/comments to this repo. Instead, submit it to
+Please don't submit issues/comments to this repo. Instead, submit it to
 
-https://github.com/steveathon/bootstrap-wysiwyg
+[https://github.com/steveathon/bootstrap-wysiwyg]
 
 Although this is the original repository, we need the project to be tiny and
 focused on the needs of the MindMup tool, which means that we do not want to
@@ -100,6 +100,7 @@ For the content attachment editor on MindMup, we apply the following rules to mo
 
 Dependencies
 ------------
-* jQuery http://jquery.com/
+* jQuery http://jquery.com/ 
 * jQuery HotKeys https://github.com/jeresig/jquery.hotkeys
 * Bootstrap http://twitter.github.com/bootstrap/
+************
